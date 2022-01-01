@@ -1,8 +1,5 @@
-The plugin you need to keep your server lagg free! 
-
-| Phar | View Count |
-| :---: | :---: |
- [![Download](https://img.shields.io/badge/download-latest-blue.svg)](https://poggit.pmmp.io/ci/TwistedAsylumMC/AutoClearLagg/~) | [![View Count](http://hits.dwyl.io/TwistedAsylumMC/AutoClearLagg.svg)](http://hits.dwyl.io/TwistedAsylumMC/AutoClearLagg) |
+# General
+The plugin you need to keep your server lagg free!
 
 # Features
 - [x] Enable/Disable Mobs & Items clearing
@@ -10,8 +7,9 @@ The plugin you need to keep your server lagg free!
 - [x] Configurable Timer
 - [x] Editabe Messages
 
-# config.yml
-```---
+# Config
+```yaml
+---
 # AutoClearLagg (ACL) Config
 
 # Seconds between each clear lagg
@@ -31,5 +29,6 @@ messages:
 
 # Countdown times
 times: [60, 30, 15, 10, 5, 4, 3, 2, 1]
-...```
+...
+```
 
