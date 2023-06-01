@@ -3,7 +3,7 @@ description: Recoded & improved auto clear lagg plugin
 
 main: twisted\autoclearlagg\AutoClearLagg
 src-namespace-prefix: twisted\autoclearlagg
-version: 4.0.1
+version: 4.0.2
 api: 5.0.0
 
 author: Twisted
